@@ -9,7 +9,7 @@ The Machine Learning Zoomcamp provides comprehensive coverage of fundamental mac
 
 ## List of Weekly Assignments
 
-Here, you can find the weekly assignments I completed during the bootcamp. Each assignment has its own directory containing code, datasets, and relevant notes.
+Here, you can find the weekly assignments I completed during the bootcamp.
 
 1. [Week 1 Assignment](https://github.com/ulfitaputri/ML_Zoomcamp/blob/main/homework_week_1.ipynb)
 
