@@ -3,7 +3,7 @@
 This is a repository that tracks my progress during the Machine Learning Zoomcamp. 
 Here, I have stored weekly assignments and projects I have completed throughout the bootcamp.
 
-## About the Bootcamp
+## About Machine Learning Zoomcamp
 
 The Machine Learning Zoomcamp provides comprehensive coverage of fundamental machine learning principles, algorithms, and deployment techniques. Through a hands-on and practical approach that emphasizes real-world applications, this intensive 4-month program equips participants with the necessary skills to jumpstart a career in machine learning engineering.
 
