@@ -1,4 +1,4 @@
-**MACHINE LEARNING ZOOMCAMP**
+## MACHINE LEARNING ZOOMCAMP
 
 This is a repository that tracks my progress during the Machine Learning Zoomcamp. 
 Here, I have stored weekly assignments and projects I have completed throughout the bootcamp.
@@ -11,7 +11,7 @@ The Machine Learning Zoomcamp provides comprehensive coverage of fundamental mac
 
 Here, you can find the weekly assignments I completed during the bootcamp. Each assignment has its own directory containing code, datasets, and relevant notes.
 
-1. [Week 1 Assignment](link_to_week_1_assignment_directory)
+1. [Week 1 Assignment](https://github.com/ulfitaputri/ML_Zoomcamp/blob/main/homework_week_1.ipynb)
 
 You can access each assignment by clicking the links above.
 
