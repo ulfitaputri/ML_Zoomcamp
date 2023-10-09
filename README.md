@@ -13,6 +13,8 @@ Here, you can find the weekly assignments I completed during the bootcamp.
 
 1. [Week 1 Assignment](https://github.com/ulfitaputri/ML_Zoomcamp/blob/main/homework_week_1.ipynb)
 2. [Week 2 Assignment](https://github.com/ulfitaputri/ML_Zoomcamp/blob/main/homework_week_2.ipynb)
+3. [Week 3 Assignment](https://github.com/ulfitaputri/ML_Zoomcamp/blob/main/homework_week_3.ipynb)
+4. [Week 4 Assignment](https://github.com/ulfitaputri/ML_Zoomcamp/blob/main/homework_week_4.ipynb)
 
 You can access each assignment by clicking the links above.
 
